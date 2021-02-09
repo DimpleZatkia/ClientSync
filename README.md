@@ -11,3 +11,15 @@ Survey (Client Behavior), Profitability metric, Client background and judge anal
 decision model.
 
 ![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/Capture.PNG)
+
+ACTIVITY DIAGRAM
+
+![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/Capture_2.PNG)
+
+USE CASE DIAGRAM
+
+![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/Capture_3.PNG)
+
+SEQUENCE DIAGRAM
+
+![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/Capture_4.PNG)
