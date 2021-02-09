@@ -6,4 +6,4 @@
 
 
 
-![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/capture.png?raw=true)
+![alt text](https://github.com/DimpleZatkia/ClientSync/blob/main/capture.png)
