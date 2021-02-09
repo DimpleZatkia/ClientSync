@@ -26,7 +26,9 @@ SEQUENCE DIAGRAM
 
 
 SQL IMPLEMENTATION
+
 IMPLEMENTATION SUMMARY
+
 The project is implemented in a way that it covers all the important learnings of this subject.
 We have 16 table entries and 5 backup tables used by triggers. We have used 5 stored
 procedures each one for evaluating a criterion and a main one to give a decision. The stored
@@ -37,6 +39,7 @@ For user access and privileges, we have created two different kinds of users wit
 access permissions.
 
 IMPLEMENTATION Table (Entity)
+
 The project is about client evaluation and filtering and we have designed an algorithm to
 filter the clients. There is no manual process required which saves a lot of time. The selection is
 done based on 4 criteria’s Survey, profitability, background and judge’s behavior in similar
@@ -46,6 +49,7 @@ formulae. The profitability is the major deciding factor followed by survey and 
 the criteria’s match, then the decision table is updated to Yes.
 
 CONCLUSION
+
 We have been able to implement the project successfully with the decision model working and
 giving the desired result. We were able to use all the learnings from this subject like stored
 procedures, triggers, views along with joins and subqueries. There can be a further improvement
